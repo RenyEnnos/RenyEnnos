@@ -203,9 +203,9 @@ AI companion with **emotional memory**, relationship tracking, and meta-cognitio
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renyennos/Renyennos/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Renyennos/Renyennos/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Renyennos/Renyennos/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RenyEnnos/RenyEnnos/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RenyEnnos/RenyEnnos/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/RenyEnnos/RenyEnnos/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
