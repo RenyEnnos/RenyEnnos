@@ -113,12 +113,12 @@ Full-stack productivity platform with **AI integration**, habit tracking, journa
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="22"/> Grimorio Caotize-se
-> _Ancient knowledge, modern interface._
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="22"/> [Ouroboros Runtime](https://github.com/RenyEnnos/ouroboros-runtime)
+> _Agents that never forget._
 
-Mobile app + Python scraper for occult content from **caotize.se**. Offline-first architecture with SQLite storage and butter-smooth animations.
+**Multi-agent orchestration system** with persistent memory and Anti-Vibe protocol. Autonomous agents that coordinate, remember, and evolve.
 
-`React Native` `Expo` `Python` `SQLite` `Zustand` `Reanimated`
+`TypeScript` `Multi-Agent` `Orchestration` `Memory Systems`
 
 </td>
 </tr>
