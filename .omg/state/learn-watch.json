@@ -1,0 +1,12 @@
+{
+  "last_session_id": "5a00c25b-1f40-4085-a5f9-467ed8230b02",
+  "last_event_key": "5a00c25b-1f40-4085-a5f9-467ed8230b02:transcript:196673a5fcf5e042e406eaaec39114575d57ae617a6d7b49a438b4ff111bcf55",
+  "last_prompted_session_id": "",
+  "last_reason": "short-session",
+  "last_prompted_at": "",
+  "last_user_message_count": 0,
+  "last_actionable_message_count": 0,
+  "deep_interview_lock_active": false,
+  "deep_interview_lock_source": "/home/pedro/Downloads/sprites-reny/.omg/state/deep-interview.json",
+  "updated_at": "2026-05-13T22:46:45.005Z"
+}
