@@ -7,6 +7,9 @@
 <!-- ▓▓▓ HEADER ▓▓▓ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=RENYENNOS&fontSize=90&fontColor=00fff5&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20AI%20Enthusiast%20%7C%20Builder%20%7C%20Automator%20%E2%9A%A1&descAlignY=58&descSize=18&descColor=f72585"/>
 
+<!-- ▓▓▓ ROTATING CHARACTER ▓▓▓ -->
+<img src="./reny.gif" alt="Reny Rotacionando" width="120">
+
 <!-- ▓▓▓ TYPING ANIMATION ▓▓▓ -->
 <a href="https://github.com/Renyennos">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFF5&center=true&vCenter=true&repeat=true&width=620&height=45&lines=%3E+Let+the+machines+work.+I+enjoy+the+results.;%3E+Building+tools+that+build+themselves.;%3E+AI+is+my+co-pilot%2C+my+crew%2C+and+my+ship." alt="Typing SVG" />
