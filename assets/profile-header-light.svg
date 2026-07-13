@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img">
+  <title>Documents connected through agent orchestration and memory to livestock research</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f6f8fa"/>
+      <stop offset="0.55" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f6f8fa"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#d0d7de" stroke-width="1" opacity="0.38"/>
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="198" rx="18" fill="url(#bg)" stroke="#d0d7de"/>
+  <rect x="1" y="1" width="1198" height="198" rx="18" fill="url(#grid)"/>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#57606a" stroke-width="2">
+      <path d="M92 58h98l18 18v72H92z" fill="#ffffff"/>
+      <path d="M190 58v20h18M112 92h70M112 112h56M112 132h64"/>
+      <path d="M70 76H54v76h112" opacity="0.55"/>
+      <circle cx="54" cy="76" r="5" fill="#0969da" stroke="none"/>
+      <circle cx="166" cy="152" r="5" fill="#2da44e" stroke="none"/>
+    </g>
+
+    <path d="M214 104C286 104 298 100 352 100" stroke="#0969da" stroke-width="2.5"/>
+    <circle cx="282" cy="104" r="4" fill="#0969da" stroke="none"/>
+
+    <g stroke="#57606a" stroke-width="2">
+      <path d="M398 100 446 62 506 76 540 122 482 148 420 132z" opacity="0.75"/>
+      <path d="M398 100 482 148M446 62l36 86M506 76l-108 24M420 132l86-56M540 122l-120 10" opacity="0.48"/>
+      <circle cx="398" cy="100" r="8" fill="#ffffff"/>
+      <circle cx="446" cy="62" r="8" fill="#ffffff"/>
+      <circle cx="506" cy="76" r="8" fill="#ffffff"/>
+      <circle cx="540" cy="122" r="8" fill="#ffffff"/>
+      <circle cx="482" cy="148" r="8" fill="#ffffff"/>
+      <circle cx="420" cy="132" r="8" fill="#ffffff"/>
+      <circle cx="468" cy="105" r="22" fill="#f6f8fa" stroke="#0969da" stroke-width="3"/>
+      <circle cx="468" cy="105" r="7" fill="#0969da" stroke="none"/>
+    </g>
+
+    <path d="M548 105h92" stroke="#0969da" stroke-width="2.5"/>
+    <g stroke="#bc6f3f" stroke-width="3">
+      <path d="M646 64v82M670 64v82"/>
+      <path d="m650 105 7 7 14-18"/>
+    </g>
+    <path d="M676 105h108" stroke="#2da44e" stroke-width="2.5"/>
+
+    <g stroke="#57606a" stroke-width="2">
+      <ellipse cx="836" cy="105" rx="42" ry="42" fill="#ffffff"/>
+      <ellipse cx="836" cy="105" rx="27" ry="27"/>
+      <ellipse cx="836" cy="105" rx="12" ry="12"/>
+      <path d="M836 63v-18M878 105h18M836 147v18" opacity="0.55"/>
+      <circle cx="836" cy="105" r="5" fill="#2da44e" stroke="none"/>
+    </g>
+
+    <path d="M898 105c58 0 76 7 112 23 38 17 72 17 122-2" stroke="#2da44e" stroke-width="2.5"/>
+    <g stroke="#57606a" stroke-width="1.6" opacity="0.7">
+      <path d="M942 68c36-27 97-29 144-6 27 13 44 12 72 1"/>
+      <path d="M927 84c49-31 111-27 159-2 27 14 49 12 76 2"/>
+      <path d="M936 145c43-17 83-13 124 6 27 13 54 13 85 2"/>
+    </g>
+    <g fill="#bc6f3f" stroke="none">
+      <circle cx="1010" cy="128" r="5"/>
+      <circle cx="1071" cy="139" r="5"/>
+      <circle cx="1132" cy="126" r="5"/>
+    </g>
+  </g>
+</svg>

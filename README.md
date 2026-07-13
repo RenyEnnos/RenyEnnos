@@ -1,43 +1,53 @@
 # Pedro Goulart Espinola
 
-I design and maintain AI-assisted software systems and structured workflows for agent orchestration, persistent state, document governance and explicit validation.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
+  <img src="./assets/profile-header-light.svg" alt="Abstract technical diagram linking documents, agent orchestration, persistent memory and livestock research">
+</picture>
 
-My long-term focus is applying AI systems with explicit evaluation and human review to research and decision-support in Brazilian livestock production.
+**I am an Animal Science undergraduate at UEMS building AI-assisted software systems and structured workflows for agent orchestration, persistent state and document governance.**
 
-## Background
+My long-term direction is applying AI systems with explicit evaluation and human review to research and decision-support in Brazilian livestock production.
 
-I am an Animal Science undergraduate at the State University of Mato Grosso do Sul (UEMS), Brazil.
+**Working stack:** TypeScript · Python · React · Express/FastAPI · SQLite/PostgreSQL · GitHub Actions
+
+---
 
 ## Selected work
 
 ### [Docframe](https://github.com/RenyEnnos/docframe)
 
-**Document-governance framework · Active**
+`Active` · Document governance · Research workflows
 
-Docframe structures AI-assisted academic and technical work around traceable context, source candidates, quality criteria, decisions, iterations and delivery checks.
+A framework for keeping context, source candidates, quality criteria, decisions and iterations traceable in AI-assisted academic and technical work.
+
+**Technical signals:** adaptable project state, source controls, quality rubrics and recorded decision history.
 
 ### [Ouroboros Runtime](https://github.com/RenyEnnos/ouroboros-runtime)
 
-**Multi-agent runtime · Experimental**
+`Experimental` · Multi-agent runtime · TypeScript + SQLite
 
-Ouroboros combines orchestration, persistent SQLite state and isolated Python execution. Generated tools pass validation gates and require human approval before they can enter the core runtime.
+An experimental runtime for agent orchestration with persistent state, isolated Python execution and explicit validation controls.
+
+**Safety boundary:** generated tools require human approval before entering the core runtime.
 
 ### [LifeOS](https://github.com/RenyEnnos/life-os)
 
-**Weekly operating loop · Invite-only MVP**
+`MVP` · Weekly operating loop · React + Express
 
-LifeOS is a React + Express MVP with onboarding, weekly review, today and reflection. Its implementation exposes explicit API contracts and uses a CI quality gate covering typecheck, lint, tests and build.
+An invite-only weekly operating loop with onboarding, weekly review, today and reflection, backed by explicit API contracts and a CI quality gate covering typecheck, lint, tests and build.
 
 ### [Katherine Bot](https://github.com/RenyEnnos/katherine-bot)
 
-**Conversational application · Active project**
+`Active` · Conversational application · React + FastAPI
 
-Katherine Bot is a React + FastAPI application with backend-validated identity, persistent per-user memory and concurrency-safe state transitions, covered by authentication, cancellation and regression tests.
+An application with backend-validated identity, persistent per-user memory and concurrency-safe state transitions, covered by authentication, cancellation and regression tests.
 
-## Engineering approach
+---
 
-I use scoped specifications, acceptance criteria and explicit validation paths before implementation. Decisions, constraints and known limitations are recorded in the repository, while reproducible checks, CI gates and human review keep claims proportional to implemented and tested behavior.
+## How I work
 
-## Working stack
-
-TypeScript, Python, React, Express/FastAPI, SQLite/PostgreSQL, GitHub Actions.
+- Scope and acceptance criteria before implementation.
+- Reproducible checks, tests and CI before capability claims.
+- AI-assisted development with explicit human review and documented limitations.
