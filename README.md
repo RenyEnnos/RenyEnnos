@@ -6,9 +6,11 @@
   <img src="./assets/profile-header-light.svg" alt="Abstract technical diagram linking documents, agent orchestration, persistent memory and livestock research">
 </picture>
 
-**I am an Animal Science undergraduate at UEMS building AI-assisted software systems and structured workflows for agent orchestration, persistent state and document governance.**
+**I am an Animal Science undergraduate at the State University of Mato Grosso do Sul (UEMS), Brazil.**
 
-My long-term direction is applying AI systems with explicit evaluation and human review to research and decision-support in Brazilian livestock production.
+I build AI-assisted software systems and structured workflows for agent orchestration, persistent state and document governance.
+
+My long-term direction is applying AI systems with explicit evaluation and human review to research and decision support in Brazilian livestock production.
 
 **Working stack:** TypeScript · Python · React · Express/FastAPI · SQLite/PostgreSQL · GitHub Actions
 
@@ -20,15 +22,15 @@ My long-term direction is applying AI systems with explicit evaluation and human
 
 `Active` · Document governance · Research workflows
 
-A framework for keeping context, source candidates, quality criteria, decisions and iterations traceable in AI-assisted academic and technical work.
+A document-governance framework for traceable AI-assisted academic and technical work.
 
-**Technical signals:** adaptable project state, source controls, quality rubrics and recorded decision history.
+**Engineering signals:** adaptable project state, source controls, quality rubrics, recorded decisions and delivery checks.
 
 ### [Ouroboros Runtime](https://github.com/RenyEnnos/ouroboros-runtime)
 
 `Experimental` · Multi-agent runtime · TypeScript + SQLite
 
-An experimental runtime for agent orchestration with persistent state, isolated Python execution and explicit validation controls.
+An experimental runtime for multi-agent orchestration with persistent state, isolated Python execution and explicit validation controls.
 
 **Safety boundary:** generated tools require human approval before entering the core runtime.
 
@@ -36,13 +38,17 @@ An experimental runtime for agent orchestration with persistent state, isolated 
 
 `MVP` · Weekly operating loop · React + Express
 
-An invite-only weekly operating loop with onboarding, weekly review, today and reflection, backed by explicit API contracts and a CI quality gate covering typecheck, lint, tests and build.
+An invite-only weekly operating-loop MVP covering onboarding, weekly review, today and reflection.
+
+**Engineering signals:** explicit API contracts and a CI quality gate covering typecheck, lint, tests and build.
 
 ### [Katherine Bot](https://github.com/RenyEnnos/katherine-bot)
 
 `Active` · Conversational application · React + FastAPI
 
-An application with backend-validated identity, persistent per-user memory and concurrency-safe state transitions, covered by authentication, cancellation and regression tests.
+A conversational application with backend-validated identity and persistent per-user memory.
+
+**Engineering signals:** per-user state isolation, concurrency-safe state transitions, cancellation handling and regression tests.
 
 ---
 
