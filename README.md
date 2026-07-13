@@ -1,38 +1,24 @@
 # Pedro Goulart Espinola
 
-Animal Science student and AI systems builder focused on reliable agents, research tools, knowledge infrastructure and technology for Brazilian animal production.
+Current work: AI-assisted software workflows centered on agent orchestration, persistent state, document governance and explicit validation controls.
 
-I build software that helps people structure work, preserve context and make better decisions. My current interests include agent runtimes, persistent memory, documentation systems, research workflows and practical applications of AI.
+Long-term focus: applying evaluation-driven AI systems to research and decision-support in Brazilian livestock production.
 
-My working principle is **AI-assisted, human-reviewed**: automation should improve reasoning and execution while people retain responsibility for decisions, evidence and final outputs.
+## Background
 
-## Selected projects
+Animal Science undergraduate at the State University of Mato Grosso do Sul (UEMS), Brazil.
 
-- [Docframe](https://github.com/RenyEnnos/docframe) — A documentation framework for AI-assisted work. It organizes sources, quality criteria, decisions, iterations and delivery checks so academic, technical and professional documents remain traceable.
-- [Ouroboros Runtime](https://github.com/RenyEnnos/ouroboros-runtime) — An experimental multi-agent runtime with orchestration, persistent memory, isolated execution areas, execution controls and validation gates that include human review.
-- [LifeOS](https://github.com/RenyEnnos/life-os) — An invite-only MVP for a weekly operating loop: onboarding, weekly planning, daily execution, reflection and feedback, implemented in a React + Express application.
-- [Katherine Bot](https://github.com/RenyEnnos/katherine-bot) — A React/Python chatbot application with authentication, per-user state isolation, persistent conversational memory, contextual affective state and backend tests.
+## Selected work
 
-## Areas of interest
+- [Docframe](https://github.com/RenyEnnos/docframe) — **Document-governance framework** for AI-assisted academic and technical work. It makes context, source candidates, quality criteria, decisions, iterations and delivery checks traceable.
+- [Ouroboros Runtime](https://github.com/RenyEnnos/ouroboros-runtime) — **Experimental runtime** for multi-agent orchestration, with persistent SQLite state, isolated execution areas, explicit controls, validation gates and human promotion/review.
+- [LifeOS](https://github.com/RenyEnnos/life-os) — **Invite-only MVP** implemented in React + Express for a weekly operating loop with onboarding, weekly review, today and reflection.
+- [Katherine Bot](https://github.com/RenyEnnos/katherine-bot) — **Active application project** with a React frontend and FastAPI backend; backend-authenticated identity, per-user state isolation, persistent memory, per-user request locking, cancellation handling and regression tests.
 
-- Agent orchestration and evaluation
-- Memory and knowledge infrastructure
-- Research and documentation workflows
-- Human review, safety and operational reliability
-- Technology for animal science and Brazilian production systems
+## Engineering approach
 
-## Principles
+The work is scoped and specified before implementation, with acceptance criteria and explicit validation paths. Repository artifacts record constraints, decisions, iterations, failure states and limitations; reproducible checks, CI gates and human review are used before capability claims are treated as established.
 
-- Evidence before claims
-- Small, understandable systems
-- Clear boundaries and explicit trade-offs
-- Automation with accountable human review
-- Documentation as part of the system, not an afterthought
+## Working stack
 
-## Direction
-
-I am interested in connecting reliable AI infrastructure with Animal Science: tools that support research, field work, knowledge sharing and better decisions in Brazilian animal production. The Tessoma concept is part of that longer-term direction.
-
-## Contact
-
-The best way to reach me is through [GitHub](https://github.com/RenyEnnos).
+TypeScript, Python, React, Express/FastAPI, SQLite/PostgreSQL, GitHub Actions.
